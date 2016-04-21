@@ -33,9 +33,13 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:text="Take a Picture"
             android:id="@+id/take_picture_button"
             android:onClick="TakePictureButton"/>
+=======
+            android:text="Take a Picture"/>
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 
     </LinearLayout>
 
@@ -131,16 +135,24 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:text="@string/action_cancel"
             android:id="@+id/cancel_button"
             android:onClick="CancelButton"/>
+=======
+            android:text="@string/action_cancel"/>
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:text="@string/action_save"
             android:id="@+id/save_button"
             android:onClick="SaveButton"/>
+=======
+            android:text="@string/action_save"/>
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 
     </LinearLayout>
 

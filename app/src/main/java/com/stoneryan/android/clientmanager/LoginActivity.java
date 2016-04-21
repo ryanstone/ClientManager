@@ -332,8 +332,11 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
             if (success) {
                 Intent i = new Intent(LoginActivity.this, MainActivity.class);
+<<<<<<< HEAD
                 // TODO: Save login state between activities.
                 // i.putExtra("username", mEmail);
+=======
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
                 startActivity(i);
 
             } else {

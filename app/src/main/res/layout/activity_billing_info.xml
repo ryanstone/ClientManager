@@ -93,16 +93,24 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:text="@string/action_cancel"
             android:id="@+id/cancel_button"
             android:onClick="CancelButton"/>
+=======
+            android:text="Cancel"/>
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:text="@string/action_save"
             android:id="@+id/save_button"
             android:onClick="SaveButton"/>
+=======
+            android:text="Save"/>
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 
     </LinearLayout>
 

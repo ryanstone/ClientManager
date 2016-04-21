@@ -35,6 +35,7 @@ public class AddSessionActivity extends AppCompatActivity implements DisplayUser
 
     }
 
+<<<<<<< HEAD
     public void CancelButton(View view) {
         Intent i = new Intent(AddSessionActivity.this, ViewCustomerActivity.class);
         startActivity(i);
@@ -42,6 +43,9 @@ public class AddSessionActivity extends AppCompatActivity implements DisplayUser
 
     public void PurchaseButton(View view) {
         // TODO: Send data with intent
+=======
+    public void PurchaseButton(View view) {
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
         Intent i = new Intent(AddSessionActivity.this, ViewReceiptActivity.class);
         startActivity(i);
     }

@@ -44,8 +44,11 @@
         </activity>
         <activity android:name=".ViewCustomerActivity">
         </activity>
+<<<<<<< HEAD
         <activity android:name=".LogoffActivity">
         </activity>
+=======
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
     </application>
 
 </manifest>

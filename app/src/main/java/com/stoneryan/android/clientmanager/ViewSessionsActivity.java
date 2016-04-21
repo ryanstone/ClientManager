@@ -71,9 +71,12 @@ public class ViewSessionsActivity extends AppCompatActivity implements DisplayUs
     public void onFragmentInteraction(Uri uri) {
         //you can leave it empty
     }
+<<<<<<< HEAD
 
     public void BackButton(View view) {
         Intent i = new Intent(ViewSessionsActivity.this, ViewCustomerActivity.class);
         startActivity(i);
     }
+=======
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 }

@@ -41,6 +41,7 @@
     <string name="action_purchase">Purchase</string>
     <string name="action_email">Email</string>
     <string name="action_print">Print</string>
+<<<<<<< HEAD
     <string name="action_confirm">Confirm</string>
     <string name="save_customer_confirm">Customer saved.</string>
     <string name="logout">Logout</string>
@@ -49,4 +50,6 @@
     <string name="session_purchased">Session purchased.</string>
     <string name="billing_info_saved">Billing info saved.</string>
 
+=======
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 </resources>

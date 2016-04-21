@@ -114,16 +114,24 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:text="@string/action_email"
             android:id="@+id/email_button"
             android:onClick="EmailButton"/>
+=======
+            android:text="@string/action_email"/>
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/action_print"
+<<<<<<< HEAD
             android:id="@+id/print_button"
             android:onClick="PrintButton"/>
+=======
+            android:id="@+id/print_button"/>
+>>>>>>> 4067b578267fc7c818159cfdba7e381f5eb3d3a5
 
 
     </LinearLayout>
